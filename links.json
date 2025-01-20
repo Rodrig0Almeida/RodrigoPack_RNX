@@ -1,0 +1,79 @@
+{
+    "Sphaira": {
+        "url": "https://github.com/ITotalJustice/sphaira",
+        "file_type": "zip",
+        "extract_folder": "switch/sphaira",
+        "Move_to": "RodrigoPack_RNX",
+        "Rename_to":"hbmenu.nro"
+    },
+    "Tesla-Menu": {
+        "url": "https://github.com/WerWolv/Tesla-Menu",
+        "file_type": "zip"
+    },
+    "Nx-ovloader": {
+        "url": "https://github.com/WerWolv/nx-ovlloader",
+        "file_type": "zip"
+    },
+    "Sys-,clk": {
+        "url": "https://github.com/jope82/sys-clk-uncapped-gpu-and-other-extras",
+        "file_type": "zip"
+    },
+    "EdiZon": {
+        "url": "https://github.com/proferabg/EdiZon-Overlay",
+        "file_type": "zip"
+    },
+    "Startus-Monitor": {
+        "url": "https://github.com/masagrator/Status-Monitor-Overlay",
+        "file_type": "zip"
+    },
+    "Fizeau": {
+        "url": "https://github.com/averne/Fizeau",
+        "file_type": "zip"
+    },
+    "SaltyNX": {
+        "url": "https://github.com/masagrator/SaltyNX",
+        "file_type": "zip"
+    },
+    "MissionControl": {
+        "url": "https://github.com/ndeadly/MissionControl",
+        "file_type": "zip"
+    },
+    "Sys-con": {
+        "url": "https://github.com/o0Zz/sys-con",
+        "file_type": "zip"
+    },
+    "FanControl": {
+        "url": "https://github.com/Zathawo/NX-FanControl",
+        "file_type": "zip"
+    },
+    "FPSLocker": {
+        "url": "https://github.com/masagrator/FPSLocker",
+        "file_type": "ovl",
+        "copy_to": "RodrigoPack_RNX/switch/.overlays"
+    },
+    "Sysmodules": {
+        "url": "https://github.com/WerWolv/ovl-sysmodules",
+        "file_type": "ovl",
+        "copy_to": "RodrigoPack_RNX/switch/.overlays"
+    },
+    "NX-Activity": {
+        "url": "https://github.com/zdm65477730/NX-Activity-Log",
+        "file_type": "nro",
+        "copy_to": "RodrigoPack_RNX/switch/Nx-Activity"
+    },
+    "MasterVolume": {
+        "url": "https://github.com/averne/MasterVolume",
+        "file_type": "ovl",
+        "copy_to": "RodrigoPack_RNX/switch/.overlays"
+    },
+    "ReverseNx-RT": {
+        "url": "https://github.com/masagrator/ReverseNX-RT",
+        "file_type": "ovl",
+        "copy_to": "RodrigoPack_RNX/switch/.overlays"
+    },
+    "NxThemes": {
+        "url": "https://github.com/exelix11/SwitchThemeInjector",
+        "file_type": "nro",
+        "copy_to": "RodrigoPack_RNX/switch/NxThemes"
+    }
+}
